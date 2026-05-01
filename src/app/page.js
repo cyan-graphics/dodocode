@@ -71,11 +71,10 @@ export default function Home() {
 function Calendar(){
   return(<div className=" p-7">
   <CalendarHeatmap
-    startDate={new Date('2024-12-31')}
-    endDate={new Date('2025-12-31')}
+    startDate={new Date('2025-12-31')}
+    endDate={new Date('2026-12-31')}
     values={[
-      { date: '2025-09-21', count: 2 },
-      { date: '2025-09-22', count: 2 },
+      { date: '2026-05-01', count: 2 },
     ]}
     classForValue={value => {
       if (!value) return 'color-empty';
