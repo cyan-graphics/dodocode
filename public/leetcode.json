@@ -20,5 +20,27 @@
         "labels": ["sliding windows"]
       }
     ]
+  },
+  "2026-05-02": {
+    "problems": [
+      {
+        "title": "Check If a String Contains All Binary Codes of Size K",
+        "link": "https://leetcode.cn/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/",
+        "difficulty": "medium",
+        "labels": ["sliding windows"]
+      },
+      {
+        "title": "Minimum Swaps to Group All 1's Together II",
+        "link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/",
+        "difficulty": "medium",
+        "labels": ["sliding windows"]
+      },
+      {
+        "title": "Distinct Points Reachable After Substring Removal",
+        "link": "https://leetcode.com/problems/distinct-points-reachable-after-substring-removal/description/",
+        "difficulty": "medium",
+        "labels": ["sliding windows"]
+      }
+    ]
   }
 }
