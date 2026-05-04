@@ -42,5 +42,27 @@
         "labels": ["sliding windows"]
       }
     ]
+  },
+  "2026-05-04": {
+    "problems": [
+      {
+        "title": "Maximum Length Substring With Two Occurrences",
+        "link": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/",
+        "difficulty": "easy",
+        "labels": ["sliding windows"]
+      },
+      {
+        "title": "Maximum Erasure Value",
+        "link": "https://leetcode.cn/problems/maximum-erasure-value/description/",
+        "difficulty": "medium",
+        "labels": ["sliding windows"]
+      },
+      {
+        "title": "Frequency Of The Most Frequent Element",
+        "link": "https://leetcode.cn/problems/frequency-of-the-most-frequent-element/description/",
+        "difficulty": "medium",
+        "labels": ["sliding windows"]
+      }
+    ]
   }
 }

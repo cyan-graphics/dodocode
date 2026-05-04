@@ -75,6 +75,8 @@ function Calendar(){
     endDate={new Date('2026-12-31')}
     values={[
       { date: '2026-05-01', count: 2 },
+      { date: '2026-05-02', count: 2},
+      { date: '2026-05-04', count: 2},
     ]}
     classForValue={value => {
       if (!value) return 'color-empty';
