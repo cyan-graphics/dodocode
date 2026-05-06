@@ -64,5 +64,27 @@
         "labels": ["sliding windows"]
       }
     ]
+  },
+  "2026-05-06": {
+    "problems": [
+      {
+        "title": "Subarray Product Less Than K",
+        "link": "https://leetcode.com/problems/subarray-product-less-than-k/description/",
+        "difficulty": "medium",
+        "labels": ["sliding windows"]
+      },
+      {
+        "title": "Minumum Size Subarrat Sum",
+        "link": "https://leetcode.cn/problems/minimum-size-subarray-sum/description/",
+        "difficulty": "medium",
+        "labels": ["sliding windows"]
+      },
+      {
+        "title": "Continuous Subarrays",
+        "link": "https://leetcode.com/problems/continuous-subarrays/description/",
+        "difficulty": "medium",
+        "labels": ["sliding windows"]
+      }
+    ]
   }
 }
