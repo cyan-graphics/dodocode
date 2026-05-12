@@ -86,5 +86,41 @@
         "labels": ["sliding windows"]
       }
     ]
+  },
+  
+  "2026-05-12": {
+    "problems": [
+      {
+        "title": "Remove Duplicates from Sorted List",
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+        "difficulty": "easy",
+        "labels": ["linked-list"]
+      },
+      {
+        "title": "Remove Duplicates from Sorted List II",
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+        "difficulty": "medium",
+        "labels": ["linked-list"]
+      },
+      {
+        "title": "Remove Nth Node From End of List",
+        "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "difficulty": "medium",
+        "labels": ["linked-list"]
+      },
+      {
+        "title": "Merge In Between Linked Lists",
+        "link": "https://leetcode.com/problems/merge-in-between-linked-lists/",
+        "difficulty": "medium",
+        "labels": ["linked-list"]
+      },
+
+      {
+        "title": "Circular Array Loop",
+        "link": "https://leetcode.com/problems/circular-array-loop/",
+        "difficulty": "optional",
+        "labels": ["linked-list"]
+      }
+    ]
   }
 }
